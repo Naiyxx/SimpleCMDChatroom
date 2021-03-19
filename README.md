@@ -1,4 +1,4 @@
 # SimpleCMDChatroom
 simple chatroom using CMD to launch
 
-# STEP 1
+## STEP 1
